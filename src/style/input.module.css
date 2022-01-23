@@ -1,0 +1,7 @@
+.inputContainer {
+    /* border: 0.5px white solid;
+    box-shadow: 5px 0px 5px gray; */
+    border-radius: 100px 30px;
+    padding: 5vh 5vw;
+    margin: 10vh 2vw;
+}
